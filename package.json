@@ -1,0 +1,22 @@
+{
+  "name": "nodejswebapi",
+  "version": "0.0.1",
+  "description": "Welcome, this repo is part of my youtube video about Creating and testing a complete Node.js Rest API (With no frameworks).",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRSampaio/NodeJSWebAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRSampaio/NodeJSWebAPI/issues"
+  },
+  "homepage": "https://github.com/CRSampaio/NodeJSWebAPI#readme"
+}
