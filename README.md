@@ -12,7 +12,7 @@ Access our [**exclusive telegram channel**](https://bit.ly/ErickWendelContentHub
 
 - Web API
   - [x] it should have an endpoint for storing heroes' data
-  - [x] it should have an endpoint for retrieving heroes' data
+  - [ ] it should have an endpoint for retrieving heroes' data
   - [ ] it should have an endpoint for updating heroes' data
   - [ ] it should have an endpoint for deleting heroes' data
 
@@ -26,7 +26,7 @@ Access our [**exclusive telegram channel**](https://bit.ly/ErickWendelContentHub
     - [ ] it should reach 100% code coverage (it's currently not possible to get code coverage metrics using only the native Node.js, see [c8](https://www.npmjs.com/package/c8) for this task)
 
     - Integration / E2E
-      - [x] it should test the endpoint for storing heroes' data
+      - [ ] it should test the endpoint for storing heroes' data
       - [ ] it should test the endpoint for retrieving heroes' data
       - [ ] it should test the endpoint for updating heroes' data
       - [ ] it should test the endpoint for deleting heroes' data
